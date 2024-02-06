@@ -9,3 +9,4 @@ I'm Fatima Naser (@fnaser4), a dedicated third-year programming student delving 
 - 📫 Let's connect! You can reach me at [fatimanas2025@gmail.com](mailto:fatimanas2025@gmail.com).
 
 Feel free to peruse my repositories, and let's embark on a professional coding journey together!
+Explore my projects on [GitHub](https://github.com/fnaser4/Projects).
