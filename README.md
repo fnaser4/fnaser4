@@ -1,9 +1,9 @@
 # Hello World! 👩‍💻
 
-I'm Fatima Naser (@fnaser4), a dedicated third-year programming student delving into the captivating realms of code.
+I'm Fatima Naser (@fnaser4), a dedicated final-year programming student delving into the captivating realms of code.
 
 - 👀 Exploring the cutting-edge technologies of programming.
-- 🚀 Currently channeling my coding prowess into the challenges of my third academic year at Bahrain Polytechnic.
+- 🚀 Currently channeling my coding prowess into the challenges of my final year at Bahrain Polytechnic.
 - 💻 Actively engaging in collaborative projects, transforming ideas into practical solutions.
 - 🌱 Committed to a continuous learning journey, adapting to the ever-evolving tech landscape.
 - 📫 Let's connect! You can reach me at [fatimanas2025@gmail.com](mailto:fatimanas2025@gmail.com).
