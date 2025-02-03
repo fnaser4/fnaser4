@@ -1,12 +1,41 @@
-# Hello World! 👩‍💻
+<h2> 💻 &nbsp;Tech Stack</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="golang" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="svelte" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
+</p>
 
-I'm Fatima Naser (@fnaser4), a dedicated final-year programming student delving into the captivating realms of code.
+<h2> ⚡ &nbsp;Tools & Platforms</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+</p>
 
-- 👀 Exploring the cutting-edge technologies of programming.
-- 🚀 Currently channeling my coding prowess into the challenges of my final year at Bahrain Polytechnic.
-- 💻 Actively engaging in collaborative projects, transforming ideas into practical solutions.
-- 🌱 Committed to a continuous learning journey, adapting to the ever-evolving tech landscape.
-- 📫 Let's connect! You can reach me at [fatimanas2025@gmail.com](mailto:fatimanas2025@gmail.com).
+<h2> 🔗 &nbsp;Connect With Me</h2>
+<p align="left">
+Explore my projects on <a href="https://github.com/fnaser4/Projects" target="_blank"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" /></a>
 
-Feel free to peruse my repositories, and let's embark on a professional coding journey together!
-Explore my projects on [GitHub](https://github.com/fnaser4/Projects).
+Connect with me on <a href="https://www.linkedin.com/in/fatemanaser" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-fatemanaser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+
+Reach me at <a href="mailto:fatimanas2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-fatimanas2025-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!--
+**fnaser4/fnaser4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on a web application using Node.js, Supabase and SvelteKit
+- 🌱 I'm currently learning Full Stack Development at Reboot Coding Institute
+- 👯 I'm looking to collaborate on innovative web development projects
+- 💬 Ask me about Web Development, Java, JavaScript, and System Analysis
+- 📫 How to reach me: fatimanas2025@gmail.com
+- ⚡ Fun fact: I speak Arabic and English fluently with an IELTS score of 7.5!
+-->
